@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: lightblue;
+}
+
+header {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+header img {
+  border-radius: 105px;
+  height: 200px;
+  width: 200px;
+  border: 10px solid white;
+}
+
+main {
+    max-width: 770px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+a:hover {
+  color: gold;
+}
+
+footer {
+  text-align: center;
+  padding: 50px;
+}
+
+p.caption {
+  margin-top: 0;
+}
